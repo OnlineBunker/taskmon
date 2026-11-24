@@ -1,0 +1,11 @@
+{
+  "name": "taskmon",
+  "version": "1.0.0",
+  "description": "Terminal task manager built with vanilla Node.js",
+  "type": "module",
+  "main": "taskmon.js",
+  "scripts": {
+    "start": "node taskmon.js",
+    "test:procs": "node procs.js"
+  }
+}
